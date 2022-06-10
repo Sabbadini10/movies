@@ -2,6 +2,6 @@
 
 ##Integrantes
 
-Matias Sabbadini
+Matias Sabbadini edad: 30, ciudad: Cutral-Co
 Richard Cuevas
 Ailin Zalasar
