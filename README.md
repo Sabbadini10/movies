@@ -3,5 +3,5 @@
 ##Integrantes
 
 Matias Sabbadini edad: 30, ciudad: Cutral-Co
-Richard Cuevas
+Richard Cuevas - Edad 24 años - Plaza Huincul, nqn.
 Ailin Zalasar
